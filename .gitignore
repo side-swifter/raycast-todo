@@ -4,3 +4,4 @@ token.json
 .access.json
 __pycache__/
 .DS_Store
+reminders.json
